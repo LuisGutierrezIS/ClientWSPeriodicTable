@@ -1,0 +1,14 @@
+<String>
+<NewDataSet>
+    <AtomicNumber>79</AtomicNumber>
+    <ElementName>Gold</ElementName>
+    <Symbol>Au</Symbol>
+    <AtomicWeight>196.967</AtomicWeight>
+    <BoilingPoint>3239</BoilingPoint>
+    <IonisationPotential>9.24</IonisationPotential>
+    <EletroNegativity>1.42</EletroNegativity>
+    <AtomicRadius>1.34</AtomicRadius>
+    <MeltingPoint>1337</MeltingPoint>
+    <Density>19300</Density>
+</NewDataSet>
+</String>
